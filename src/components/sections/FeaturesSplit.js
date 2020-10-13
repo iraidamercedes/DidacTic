@@ -73,8 +73,17 @@ const FeaturesSplit = ({
                   Construye.
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                Selecciona tu ruta de aprendizaje seleccionando los cursos según las categorías que necesites:
+                <br/>
+                <br/>
+                  <ul>
+                    <li>Modalidades Educativas Emergentes</li>
+                    <li>Herramientas de Pedagogía Digital</li>
+                    <li>Estrategias Educativas Virtuales</li>
+                    <li>Educando TIC</li>
+                    <li>Instructor TIC</li>
+                  </ul>
+                </p>
               </div>
               <div className={
                 classNames(
@@ -99,8 +108,16 @@ const FeaturesSplit = ({
                   Aprende.
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                Todos nuestros cursos cuentan con acompañamientos para que todos los pasos que des en tu ruta de aprendizaje, te lleven a la meta que quieres lograr como aprendiz digital. Trabajamos para que en esta etapa encuentres:
+                <br/>
+                <br/>
+                  <ul>
+                    <li>Dedicación</li>
+                    <li>Motivación</li>
+                    <li>Trabajo en equipo y adaptación al entorno</li>
+                    <li>Trabajo practico</li>
+                  </ul>
+                </p>
               </div>
               <div className={
                 classNames(
@@ -125,8 +142,8 @@ const FeaturesSplit = ({
                   Aplica.
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  Aplica tus conocimientos creando tus propios proyectos de acuerdo a tu orientación pedagógica: instructor, educando o estudiante, y lleva tu aprendizaje a otro nivel.
+                </p>
               </div>
               <div className={
                 classNames(
