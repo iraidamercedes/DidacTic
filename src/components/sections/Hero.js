@@ -74,10 +74,10 @@ const Hero = ({
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/illustration-back-to-school-of-female-explain-astronomy-galaxy-online.png')}
+                src={require('./../../assets/images/viajero-digital.png')}
                 alt="Hero"
-                width={896}
-                height={504} />
+                width={796}
+                height={404} />
           </div>
           <br/>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
