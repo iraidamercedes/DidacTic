@@ -77,11 +77,11 @@ const FeaturesSplit = ({
                 <br/>
                 <br/>
                   <ul>
-                    <li>Modalidades Educativas Emergentes</li>
-                    <li>Herramientas de Pedagogía Digital</li>
-                    <li>Estrategias Educativas Virtuales</li>
-                    <li>Educando TIC</li>
-                    <li>Instructor TIC</li>
+                    <li>Modalidades Educativas Emergentes.</li>
+                    <li>Herramientas de Pedagogía Digital.</li>
+                    <li>Estrategias Educativas Virtuales.</li>
+                    <li>Educando TIC.</li>
+                    <li>Instructor TIC.</li>
                   </ul>
                 </p>
               </div>
@@ -112,10 +112,10 @@ const FeaturesSplit = ({
                 <br/>
                 <br/>
                   <ul>
-                    <li>Dedicación</li>
-                    <li>Motivación</li>
-                    <li>Trabajo en equipo y adaptación al entorno</li>
-                    <li>Trabajo practico</li>
+                    <li>Dedicación.</li>
+                    <li>Motivación.</li>
+                    <li>Trabajo en equipo y adaptación al entorno.</li>
+                    <li>Trabajo práctico.</li>
                   </ul>
                 </p>
               </div>

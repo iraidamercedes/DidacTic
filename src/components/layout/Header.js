@@ -66,7 +66,12 @@ const Header = ({
     if (!nav.current) return
     if (!isActive || nav.current.contains(e.target) || e.target === hamburger.current) return;
     closeMenu();
-  }  
+  }
+
+  const openInNewTab = (url) => {
+    const newWindow = window.open(url, '_blank', 'noopener,noreferrer')
+    if (newWindow) newWindow.opener = null
+  }
 
   const classes = classNames(
     'site-header',
@@ -120,7 +125,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Registrate</Link>
+                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={openInNewTab('https://forms.gle/jKn5182Myn6wzqVB7')}>Registrate</Link>
                       </li>
                     </ul>}
                 </div>

@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
-import Logo from './partials/Logo';
+import LogoDelfos from './partials/LogoDelfos';
 import FooterNav from './partials/FooterNav';
 import FooterSocial from './partials/FooterSocial';
 
@@ -40,12 +40,12 @@ const Footer = ({
             topDivider && 'has-top-divider'
           )}>
           <div className="footer-top space-between text-xxs">
-            <Logo />
+            <LogoDelfos />
             <FooterSocial />
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             <FooterNav />
-            <div className="footer-copyright">Profesor Didactic es un producto de <a href="https://cruip.com">Delfos</a>. Todos lo derechos reservados</div>
+            <div className="footer-copyright">Profesor Didactic es un producto de <a href="https://delfoscolombia.wixsite.com/misitio">Delfos</a>. Todos lo derechos reservados</div>
           </div>
         </div>
       </div>
