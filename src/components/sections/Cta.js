@@ -59,7 +59,7 @@ const Cta = ({
         >
           <div className="cta-slogan">
             <h3 className="m-0">
-              ¡Contáctanos y trasforma la forma de enseñar!
+              ¡Contáctanos y transforma la forma de enseñar!
               </h3>
           </div>
           <div className="cta-action">

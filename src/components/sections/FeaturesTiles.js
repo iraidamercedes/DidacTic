@@ -44,7 +44,7 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Aprende construyendo.',
+    title: 'Aprende y enseña con los mejores.',
     paragraph: 'Usamos metodologías de aprendizaje activo, para que los maestros y sus alumnos se familiaricen con el uso de herramientas digitales.\n'
   };
 
